@@ -8,3 +8,4 @@ libraries{
   merge = true 
   sonarqube
 }
+allow_scm_jenkinsfile = false
