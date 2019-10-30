@@ -1,4 +1,4 @@
 unit_test()
 printValue()
 build()
-//static_code_analysis()
+static_code_analysis()
